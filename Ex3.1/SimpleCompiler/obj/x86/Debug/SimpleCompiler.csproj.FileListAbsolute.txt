@@ -1,0 +1,31 @@
+D:\Teaching\ECS\Excersises\Ex3\SimpleCompiler\bin\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\Excersises\Ex3\SimpleCompiler\bin\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\Excersises\Ex3\SimpleCompiler\obj\x86\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\Excersises\Ex3\SimpleCompiler\obj\x86\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\Excersises\Ex4\SimpleCompiler\obj\x86\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\Excersises\Ex4\SimpleCompiler\obj\x86\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\Excersises\Ex4\SimpleCompiler\bin\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\Excersises\Ex4\SimpleCompiler\bin\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.1\SimpleCompiler\obj\x86\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\2016\Ex3.1\SimpleCompiler\obj\x86\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1\obj\x86\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1\obj\x86\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1\bin\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1\bin\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1.Solution\obj\x86\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1.Solution\obj\x86\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1.Solution\bin\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1.Solution\bin\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\2016\Ex3.1\Ex3.1.Solution\obj\x86\Debug\SimpleCompiler.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\2017\Ex3.1\Ex3.1.Solution\obj\x86\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\2017\Ex3.1\Ex3.1.Solution\obj\x86\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\2017\Ex3.1\Ex3.1.Solution\obj\x86\Debug\SimpleCompiler.csprojResolveAssemblyReference.cache
+D:\Teaching\ECS\2017\Ex3.1\Ex3.1.Solution\bin\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\2017\Ex3.1\Ex3.1.Solution\bin\Debug\SimpleCompiler.pdb
+D:\Teaching\ECS\2017\Ex3.1\Ex3.1\obj\x86\Debug\SimpleCompiler.exe
+D:\Teaching\ECS\2017\Ex3.1\Ex3.1\obj\x86\Debug\SimpleCompiler.pdb
+C:\Users\97254\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\Ex3.1\SimpleCompiler\bin\Debug\SimpleCompiler.exe
+C:\Users\97254\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\Ex3.1\SimpleCompiler\bin\Debug\SimpleCompiler.pdb
+C:\Users\97254\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\Ex3.1\SimpleCompiler\obj\x86\Debug\SimpleCompiler.csprojAssemblyReference.cache
+C:\Users\97254\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\Ex3.1\SimpleCompiler\obj\x86\Debug\SimpleCompiler.exe
+C:\Users\97254\Desktop\לימודים\שנה ב\סמסטר א\מבנה מערכות מחשוב\Ex3.1\SimpleCompiler\obj\x86\Debug\SimpleCompiler.pdb

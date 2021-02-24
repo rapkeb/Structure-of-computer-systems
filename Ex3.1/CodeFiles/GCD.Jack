@@ -1,0 +1,19 @@
+#
+//comment1
+function int f(int x, int y, int z){
+//comment2	
+	var int a;
+	var int b;
+	let a = x;
+	let b = (x+3)-(y+5)*(z - (x+(y-z)));
+	if((xz)){
+		//comment3;
+		return (x+y)*z;
+	}
+	while(a		while(x			let x = x + 1;
+		}
+	}
+	//comment3
+	return x;
+}
+//comment4
